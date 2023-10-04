@@ -1,0 +1,21 @@
+$margin-right:20px;
+
+button{
+    margin-right: $margin-right;
+    &:hover{
+      background-color: palevioletred;
+    }
+}
+
+#colore{
+    color: blue;
+}
+
+#caldo{
+    color: #ff8700;
+}
+
+
+#freddo{
+    color: green;
+}

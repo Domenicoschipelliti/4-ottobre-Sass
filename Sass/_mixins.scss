@@ -1,0 +1,9 @@
+@mixin display{
+    display: flex;
+    align-items: center;
+}
+
+.display{
+    @include display;
+}
+

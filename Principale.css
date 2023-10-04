@@ -1,0 +1,82 @@
+.immagine {
+  width: 75px;
+  padding-right: 1131px;
+}
+
+body {
+  margin: 0px;
+}
+
+nav {
+  display: flex;
+  background-color: black;
+}
+
+a {
+  padding-right: 20px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: darkcyan;
+  margin-bottom: 30px;
+}
+
+.riduzione {
+  width: 200px;
+  display: flex;
+  align-self: center;
+}
+
+.paragrafo {
+  margin: 0px;
+  width: 200px;
+}
+
+#accentrare {
+  display: flex;
+  align-self: center;
+  margin-bottom: 20px;
+}
+
+.contenitore {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  width: 758px;
+  margin-left: 403px;
+}
+
+#dimensione {
+  width: 208px;
+}
+
+.display {
+  display: flex;
+  align-items: center;
+}
+
+button {
+  margin-right: 20px;
+}
+button:hover {
+  background-color: palevioletred;
+}
+
+#colore {
+  color: blue;
+}
+
+#caldo {
+  color: #ff8700;
+}
+
+#freddo {
+  color: green;
+}
+
+h1, p, a {
+  color: #f4f4f4;
+}/*# sourceMappingURL=Principale.css.map */
